@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": 1,
+    "title": "Snake Classic",
+    "genre": "Arcade",
+    "price": 0,
+    "description": "Controla una serpiente, recoge comida y consigue la mayor puntuación sin chocar.",
+    "image": "/images/snake.png",
+    "rating": 4.8,
+    "playRoute": "/play/1",
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "title": "Tres en Raya",
+    "genre": "Estrategia",
+    "price": 9.90,
+    "description": "Enfréntate a otro jugador y consigue alinear tres símbolos para ganar.",
+    "image": "/images/tres-en-raya.png",
+    "rating": 4.7,
+    "playRoute": "/play/2",
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "Memory Challenge",
+    "genre": "Puzzle",
+    "price": 14.90,
+    "description": "Pon a prueba tu memoria encontrando parejas de cartas.",
+    "image": "/images/memoria.png",
+    "rating": 4.9,
+    "playRoute": "/play/3",
+    "reviews": []
+  }
+]
